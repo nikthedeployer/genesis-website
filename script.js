@@ -1,1 +1,3 @@
-console.log("Genesis Website Loaded");
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Genesis Website Loaded");
+});
